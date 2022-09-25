@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783056375470",
+    "project_id": "idiomsquiz",
+    "storage_bucket": "idiomsquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783056375470:android:9bd6fc9e3a2fff54c4673f",
+        "android_client_info": {
+          "package_name": "appinventor.ai.idiomsquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783056375470-tomaasue1jhecuog1536q511fva9gqj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKcgO9e7ZqkKyEpNdewTNDFT0rcSe2wig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783056375470-tomaasue1jhecuog1536q511fva9gqj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
